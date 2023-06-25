@@ -1,0 +1,102 @@
+generation #1 of maximum 2000
+generation #2 of maximum 2000
+generation #3 of maximum 2000
+generation #4 of maximum 2000
+generation #5 of maximum 2000
+generation #6 of maximum 2000
+generation #7 of maximum 2000
+generation #8 of maximum 2000
+generation #9 of maximum 2000
+generation #10 of maximum 2000
+generation #11 of maximum 2000
+generation #12 of maximum 2000
+generation #13 of maximum 2000
+generation #14 of maximum 2000
+generation #15 of maximum 2000
+generation #16 of maximum 2000
+generation #17 of maximum 2000
+generation #18 of maximum 2000
+generation #19 of maximum 2000
+generation #20 of maximum 2000
+generation #21 of maximum 2000
+generation #22 of maximum 2000
+generation #23 of maximum 2000
+generation #24 of maximum 2000
+generation #25 of maximum 2000
+generation #26 of maximum 2000
+generation #27 of maximum 2000
+generation #28 of maximum 2000
+generation #29 of maximum 2000
+generation #30 of maximum 2000
+generation #31 of maximum 2000
+generation #32 of maximum 2000
+generation #33 of maximum 2000
+generation #34 of maximum 2000
+generation #35 of maximum 2000
+generation #36 of maximum 2000
+generation #37 of maximum 2000
+generation #38 of maximum 2000
+generation #39 of maximum 2000
+generation #40 of maximum 2000
+generation #41 of maximum 2000
+generation #42 of maximum 2000
+generation #43 of maximum 2000
+generation #44 of maximum 2000
+generation #45 of maximum 2000
+generation #46 of maximum 2000
+generation #47 of maximum 2000
+generation #48 of maximum 2000
+generation #49 of maximum 2000
+generation #50 of maximum 2000
+generation #51 of maximum 2000
+
+K10 =
+
+   22.7964
+
+
+K20 =
+
+   30.4215
+
+
+K30 =
+
+   69.6849
+
+
+K40 =
+
+   11.7978
+
+
+J0 =
+
+   4.5866e+04
+
+
+K1 =
+
+    1.1000
+
+
+K2 =
+
+  388.4400
+
+
+K3 =
+
+    7.7400
+
+
+K4 =
+
+  160.0900
+
+
+J =
+
+   1.3426e+04
+
+>> 

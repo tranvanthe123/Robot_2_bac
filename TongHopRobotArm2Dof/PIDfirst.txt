@@ -1,0 +1,160 @@
+generation #1 of maximum 2000
+generation #2 of maximum 2000
+generation #3 of maximum 2000
+generation #4 of maximum 2000
+generation #5 of maximum 2000
+generation #6 of maximum 2000
+generation #7 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #8 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #9 of maximum 2000
+generation #10 of maximum 2000
+generation #11 of maximum 2000
+generation #12 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #13 of maximum 2000
+generation #14 of maximum 2000
+generation #15 of maximum 2000
+generation #16 of maximum 2000
+generation #17 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 less than -360 degree!
+generation #18 of maximum 2000
+generation #19 of maximum 2000
+generation #20 of maximum 2000
+generation #21 of maximum 2000
+generation #22 of maximum 2000
+generation #23 of maximum 2000
+generation #24 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 less than -360 degree!
+JOINT 1 ERROR: Angle of joint 1 less than -360 degree!
+JOINT 1 ERROR: Angle of joint 1 less than -360 degree!
+generation #25 of maximum 2000
+generation #26 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #27 of maximum 2000
+generation #28 of maximum 2000
+generation #29 of maximum 2000
+generation #30 of maximum 2000
+generation #31 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #32 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #33 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 less than -360 degree!
+JOINT 1 ERROR: Angle of joint 1 less than -360 degree!
+generation #34 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #35 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #36 of maximum 2000
+generation #37 of maximum 2000
+generation #38 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #39 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #40 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #41 of maximum 2000
+generation #42 of maximum 2000
+generation #43 of maximum 2000
+generation #44 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #45 of maximum 2000
+generation #46 of maximum 2000
+generation #47 of maximum 2000
+generation #48 of maximum 2000
+generation #49 of maximum 2000
+generation #50 of maximum 2000
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+JOINT 1 ERROR: Angle of joint 1 more than 360 degree!
+generation #51 of maximum 2000
+
+Kp10 =
+
+  585.1192
+
+
+Ki10 =
+
+  393.4308
+
+
+Kd10 =
+
+  636.5998
+
+
+Kp20 =
+
+  722.2839
+
+
+Ki20 =
+
+  123.3364
+
+
+Kd20 =
+
+   40.6148
+
+
+J0 =
+
+   3.5275e+05
+
+
+Kp1 =
+
+   37.1900
+
+
+Ki1 =
+
+  842.1900
+
+
+Kd1 =
+
+   50.3200
+
+
+Kp2 =
+
+  595.8000
+
+
+Ki2 =
+
+  818.9000
+
+
+Kd2 =
+
+  456.7800
+
+
+J =
+
+   1.2829e+04
